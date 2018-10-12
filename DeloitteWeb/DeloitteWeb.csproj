@@ -57,6 +57,7 @@
   <ItemGroup>
     <Compile Include="BaseClass.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="Navigation.cs" />
     <Compile Include="LoginPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

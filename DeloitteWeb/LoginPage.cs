@@ -15,6 +15,7 @@ namespace DeloitteWeb
             _password.SendKeys(password);
             _submitButton.Click();
         }
+
         [FindsBy(How = How.Id, Using = "username")]
         private IWebElement _username;
 
